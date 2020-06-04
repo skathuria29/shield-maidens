@@ -21,7 +21,7 @@ export async function main(options: ApplicationConfig = {}) {
   if (!appEnv.isLocal) {
     // 'myCloudant' is the name of the provisioned Cloudant service
     const dbConfig = Object.assign({}, SensumDataSource.defaultConfig, {
-      url: appEnv.getServiceURL('sensum-cloudant'),
+      url: appEnv.getServiceURL('Cloudant-sm-04'),
     });
     app.bind('datasources.config.sensum').to(dbConfig);
   }
