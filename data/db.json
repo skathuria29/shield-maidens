@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "Users": 5
+  },
+  "models": {
+    "Users": {
+      "user1": "{\"name\":\"Carina Whittle\",\"birthDate\":\"1985-11-12\",\"gender\":1, \"emailId\":\"carina.whittle@gmail.com\"}",
+      "user2": "{\"name\":\"Lester Walters\",\"birthDate\":\"1980-02-23\",\"gender\":0, \"emailId\":\"lester.walters@gmail.com\"}",
+      "user3": "{\"name\":\"Jenny Gates\",\"birthDate\":\"1970-08-03\",\"gender\":3,\"contactNumber\": 99999988888}",
+      "user4": "{\"name\":\"Kyra Cassidy\",\"birthDate\":\"1982-05-01\",\"gender\":1, \"emailId\":\"kyra@gmail.com\"}"
+    }
+  }
+}

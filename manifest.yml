@@ -1,0 +1,4 @@
+---
+applications:
+- name: shield-maidens
+  memory: 256MB
