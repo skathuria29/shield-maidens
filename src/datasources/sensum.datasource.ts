@@ -4,9 +4,8 @@ import {juggler} from '@loopback/repository';
 const config = {
   name: 'sensum',
   connector: 'cloudant',
-  url: "http://admin:pass@localhost:8080",
-  username: '',
-  password: '',
+  username: '77682139-7c4d-450f-94b9-c35936ca2201-bluemix',
+  password: 'Prajesh@123',
   database: 'sensum',
   modelIndex: ''
 };
